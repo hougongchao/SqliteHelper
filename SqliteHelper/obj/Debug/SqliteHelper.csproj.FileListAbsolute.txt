@@ -1,0 +1,9 @@
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.exe.config
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.exe
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.pdb
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.dll
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.xml
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.dll.config
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.csprojResolveAssemblyReference.cache
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.exe
+d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.pdb
