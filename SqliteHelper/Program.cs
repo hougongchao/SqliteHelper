@@ -19,13 +19,13 @@ namespace SqliteHelper
 
         static void Main(string[] args)
         {
-            //updateDoc();
-            insertBlob();
+            updateDoc();
+            //insertBlob();
         }
 
         private static void updateDoc()
         {
-            Console.WriteLine("开始导入");
+            Console.WriteLine("开始更新");
 
             Console.WriteLine("----------------------------------");
 
@@ -51,16 +51,27 @@ namespace SqliteHelper
 
                         _sqliteHelper = new SQLiteHelper(cmd);
 
+                        int count = 0;
+
                         foreach (var updateMeta in contentUpdateMetaSet)
                         {
                             _sqliteHelper.Update("BODY", updateMeta.updates, updateMeta.limits);
+
+                            count++;
+
+                            if (count % 10 == 0)
+                            {
+                                Console.WriteLine("----------------------------------");
+
+                                Console.WriteLine(string.Format("已更新 {0} 条记录", count));
+                            }
                         }
                         conn.Close();
                     }
                 }
 
                 Console.WriteLine("----------------------------------");
-                Console.WriteLine("结束导入");
+                Console.WriteLine("结束更新");
 
                 Console.ReadKey();
             }

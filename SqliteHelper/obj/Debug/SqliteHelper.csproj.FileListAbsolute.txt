@@ -7,3 +7,12 @@ d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\bin\Debug\Sys
 d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.csprojResolveAssemblyReference.cache
 d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.exe
 d:\documents\visual studio 2017\Projects\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.pdb
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.exe.config
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.exe
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.pdb
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.dll
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.xml
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.dll.config
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.csprojResolveAssemblyReference.cache
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.exe
+D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.pdb
