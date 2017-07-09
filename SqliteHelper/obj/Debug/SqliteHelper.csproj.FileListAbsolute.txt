@@ -16,3 +16,12 @@ D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Deb
 D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.csprojResolveAssemblyReference.cache
 D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.exe
 D:\Stack\Project\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.pdb
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.exe.config
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.exe
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\SqliteHelper.pdb
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.dll
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.xml
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\bin\Debug\System.Data.SQLite.dll.config
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.csprojResolveAssemblyReference.cache
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.exe
+F:\Stack\_Practice\Project-of-LuShan\Source-Code\SqliteHelper\SqliteHelper\obj\Debug\SqliteHelper.pdb

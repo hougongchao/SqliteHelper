@@ -19,8 +19,8 @@ namespace SqliteHelper
 
         static void Main(string[] args)
         {
-            updateDoc();
-            //insertBlob();
+            //updateDoc();
+            insertBlob();
         }
 
         private static void updateDoc()
